@@ -19,7 +19,7 @@ The query language supports the following main types of query:
 - DROP: removes a specified table from a database, or removes the entire database
 - JOIN: performs an inner join on two tables (returning all permutations of all matching records)
 
-A grammar that fully defines the query language can be found here: [Grammar]()
+A grammar that fully defines the query language can be found here: [Grammar](./grammar.txt)
 
 ## Examples:
 - Create Database and Table
