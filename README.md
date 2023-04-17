@@ -1,4 +1,4 @@
-# DatabaseInJava
+# Database In Java
 A relational database server from scratch in Java
 
 The server can parse the incoming command, which is a simplified version of SQL query language, then perform the specified queries, update the data stored in the database and return an appropriate result to the client.
